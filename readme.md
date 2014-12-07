@@ -2,6 +2,7 @@
 *A handy development tool that lets you run your browser-side JS without any html and in it's own window.*
 
 #### Install
+First install [atom-shell](https://github.com/atom/atom-shell) (go to the **downloads** section). This allows you to run browser-side javascript on your desktop.
 ```
 npm install -g seanewest/cheesy
 ```
