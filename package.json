@@ -1,0 +1,10 @@
+{
+  "name": "cheesy",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "atom-shell": "^1.2.0",
+    "beefy": "git://github.com/seanewest/beefy"
+  },
+  "bin": "cmd.js"
+}
