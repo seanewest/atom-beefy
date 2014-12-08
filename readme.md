@@ -3,6 +3,8 @@
 
 #### Install
 First install [atom-shell](https://github.com/atom/atom-shell) (go to the **downloads** section). This allows you to run browser-side javascript on your desktop.
+
+Then install cheesy:
 ```
 npm install -g seanewest/cheesy
 ```
